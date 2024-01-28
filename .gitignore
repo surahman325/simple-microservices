@@ -42,3 +42,4 @@ mysql_keycloak_data
 postgres-inventory
 postgres-order
 docker-compose.yml
+/grafana/*
